@@ -1,0 +1,19 @@
+{
+    "kitaplar": [
+        {
+            "id": 1,
+            "ad": "Küçük Prens",
+            "yazar": "Antoine de Saint-Exupéry"
+        },
+        {
+            "id": 3,
+            "ad": "Kürk Mantolu Madonna",
+            "yazar": "Sabahattin Ali"
+        },
+        {
+            "id": 2,
+            "ad": "Fareler Ve İnsanlar ",
+            "yazar": "Victor Hugo"
+        }
+    ]
+}
